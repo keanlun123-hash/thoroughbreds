@@ -62,7 +62,7 @@ p.mainparagraph{
     top:200px;
     animation:fade-in;
     animation-timeline:view();
-    animation-range:entry 0% cover 40%;
+    animation-range:entry 0% cover 70%;
 }
 a{
     color: aliceblue;
@@ -112,4 +112,5 @@ a:hover{
 
 
    
+
 
